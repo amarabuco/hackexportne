@@ -25,7 +25,7 @@ SECRET_KEY = 'a=oijl+qz2a#gm!rgiz6^+&!siu8h=x)7knzli-nbmd5_f6djr'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cabotagem.sa-east-1.elasticbeanstalk.com']
+ALLOWED_HOSTS = ['cabotagem.sa-east-1.elasticbeanstalk.com', '127.0.0.1']
 
 
 # Application definition
